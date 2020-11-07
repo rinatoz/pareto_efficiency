@@ -1,6 +1,6 @@
-## envy-free and Pareto efficiency Algorithm
+# envy-free and Pareto efficiency Algorithm
 
-# by rinat oz
+## by rinat oz
 
 the partition problem has n people and m resources.
 
